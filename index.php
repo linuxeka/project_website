@@ -10,6 +10,16 @@
 	<div id="site-container">
     
     	<div id="header"></div> <!-- End Header -->
+        
+        	<div id="menu-content">
+            
+            	<div id="menu"></div> <!-- End Menu -->
+                
+                <div id="content"></div> <!-- End Content -->
+                
+            </div> <!-- End Menu-Content -->
+            
+        <div id="footer"></div> <!-- End Footer -->
 
 </body>
 </html>
