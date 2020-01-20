@@ -7,7 +7,9 @@
 
 <body>
 
-
+	<div id="site-container">
+    
+    	<div id="header"></div> <!-- End Header -->
 
 </body>
 </html>
